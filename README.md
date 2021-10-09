@@ -1,10 +1,10 @@
 ### Universidade Federal do Amazonas
 ### Trabalho Sistemas Embarcados
 
-### Tecnologias
+### Technologies
 - C, VHDL e Rust
 
-### Circuito
+### Circuit
 ![cir](https://user-images.githubusercontent.com/82974806/136642775-5f337010-a01f-4170-82f9-be685092b180.png)
 
 ### Teacher
@@ -18,7 +18,7 @@
 
 <br/>
 
-### Autor
+### Author
 
 <div>
   <a href="https://github.com/gabrieltav">
@@ -26,5 +26,3 @@
   <br />
   <sub><b>Gabriel Tavares.</b></sub></a>
 </div>
-
-<br/>
