@@ -29,8 +29,7 @@ int processamento(int a, int b, int op){
 			return !(a|b);
 		default:
 			return -1;
-	}
-	
+	}	
 }
 
 int main(){

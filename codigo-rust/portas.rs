@@ -7,14 +7,14 @@
 // Codifique o circuito desenvolvido na
 // questão 1 em linguagem de programação Rust.
 
-fn main() {
-    // valores
+// valores
     //  a	b	x   !x
     //  0	0	1    0
     //  0	1	0    1
     //  1	0	0    1
     //  1	1	0    1
 
+fn main() {
     //testando na porta OR com valores A  e B
     //basta trocar os valores que corresponde a tabela
     println!("!({} or {}) = {}\n",0,1,processamento(0,1,5)); //parametros do processamento
