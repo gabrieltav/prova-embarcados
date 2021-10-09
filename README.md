@@ -5,7 +5,7 @@
 - C, VHDL e Rust
 
 ### Circuito
-
+![cir](https://user-images.githubusercontent.com/82974806/136642775-5f337010-a01f-4170-82f9-be685092b180.png)
 
 ### Teacher
 
